@@ -52,7 +52,7 @@
         <xunit.js.isStrict>true</xunit.js.isStrict>
         <xunit.js.currentModule>${project.basedir}</xunit.js.currentModule>
         <spring.version>4.3.6.RELEASE</spring.version>
-        <jetty.version>9.4.5.v20170502</jetty.version>
+        <jetty.version>9.4.34.v20201102</jetty.version>
         <eslint.extra.arg>--no-color</eslint.extra.arg>
         <lwc.version>0.33.9</lwc.version>
         <java.hamcrest.version>2.0.0.0</java.hamcrest.version>
